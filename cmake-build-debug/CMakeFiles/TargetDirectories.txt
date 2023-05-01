@@ -1,0 +1,3 @@
+C:/Users/Khees/OneDrive/Escritorio/PROGRAMACION/OMEGAups/cmake-build-debug/CMakeFiles/OMEGAUP.dir
+C:/Users/Khees/OneDrive/Escritorio/PROGRAMACION/OMEGAups/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Khees/OneDrive/Escritorio/PROGRAMACION/OMEGAups/cmake-build-debug/CMakeFiles/rebuild_cache.dir
